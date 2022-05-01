@@ -1,2 +1,2 @@
-# Hallo
-this is a test
+# Hello GitHub
+My first repository
